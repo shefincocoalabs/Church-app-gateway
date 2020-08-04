@@ -1,9 +1,33 @@
 module.exports = {
-	port:8000,
+	port:3000,
 	routes:  [
 		{
-			path:"books",
-			port:"7000"
+			path:"accounts",
+			port:"3001"
+		},
+		{
+			path:"pasters",
+			port:"3002"
+		},
+		{
+			path:"events",
+			port:"3003"
+		},
+		{
+			path:"groups",
+			port:"3004"
+		},
+		{
+			path:"masters",
+			port:"3005"
+		},
+		{
+			path:"buyorsell",
+			port:"3006"
+		},
+		{
+			path:"feeds",
+			port:"3007"
 		}
 
 	]
