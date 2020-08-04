@@ -28,7 +28,16 @@ module.exports = {
 		{
 			path:"feeds",
 			port:"3007"
+		},
+		{
+			path:"matrimonies",
+			port:"3008"
+		},
+		{
+			path:"bloodDonation",
+			port:"3009"
 		}
+
 
 	]
 
