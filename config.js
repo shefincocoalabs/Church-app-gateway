@@ -36,6 +36,10 @@ module.exports = {
 		{
 			path:"bloodDonation",
 			port:"3009"
+		},
+		{
+			path:"charities",
+			port:"3010"
 		}
 
 
