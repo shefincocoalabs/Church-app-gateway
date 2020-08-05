@@ -19,7 +19,7 @@ module.exports = {
 		},
 		{
 			path:"masters",
-			port:"3005"
+			port:"3011"
 		},
 		{
 			path:"buyorsell",
