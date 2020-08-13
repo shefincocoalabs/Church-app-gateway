@@ -44,6 +44,10 @@ module.exports = {
 		{
 			path:"urogulf",
 			port:"3011"
+		},
+		{
+			path:"sermons",
+			port:"3012"
 		}
 
 
