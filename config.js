@@ -48,6 +48,10 @@ module.exports = {
 		{
 			path:"sermons",
 			port:"3012"
+		},
+		{
+			path:"livePrayer",
+			port:"3013"
 		}
 
 
